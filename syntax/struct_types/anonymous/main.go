@@ -1,3 +1,4 @@
+// Sample program to show how to declare and initialize anonymous
 package main
 
 import "fmt"

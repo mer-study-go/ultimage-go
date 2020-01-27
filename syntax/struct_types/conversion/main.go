@@ -1,3 +1,5 @@
+// Sample program to show there's no implicit conversion for named type,
+// but there's implicit conversion for literal type.
 package main
 
 import "fmt"
