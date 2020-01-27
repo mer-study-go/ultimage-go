@@ -1,3 +1,4 @@
+// Sample program to show how to declare and initialize struct types.
 package main
 
 import "fmt"
